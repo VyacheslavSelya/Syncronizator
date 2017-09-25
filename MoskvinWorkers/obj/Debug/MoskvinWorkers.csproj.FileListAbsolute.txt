@@ -1,0 +1,15 @@
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\bin\Debug\Syncronizer.exe
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\bin\Debug\Syncronizer.pdb
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Debug\View\AboutWindow.baml
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Debug\View\AboutWindow.g.cs
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Debug\MainWindow.g.cs
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Debug\App.g.cs
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Debug\Syncronizer_MarkupCompile.cache
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Debug\Syncronizer_MarkupCompile.lref
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Debug\MainWindow.baml
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Debug\Syncronizer.g.resources
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Debug\MoskvinWorkers.Properties.Resources.resources
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Debug\MoskvinWorkers.csproj.GenerateResource.Cache
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Debug\Syncronizer.exe
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Debug\Syncronizer.pdb
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Debug\MoskvinWorkers.csprojResolveAssemblyReference.cache

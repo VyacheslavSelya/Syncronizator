@@ -1,0 +1,14 @@
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\bin\Release\Syncronizer.exe
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\bin\Release\Syncronizer.pdb
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Release\View\AboutWindow.baml
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Release\View\AboutWindow.g.cs
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Release\MainWindow.g.cs
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Release\App.g.cs
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Release\Syncronizer_MarkupCompile.cache
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Release\Syncronizer_MarkupCompile.lref
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Release\MainWindow.baml
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Release\Syncronizer.g.resources
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Release\MoskvinWorkers.Properties.Resources.resources
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Release\MoskvinWorkers.csproj.GenerateResource.Cache
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Release\Syncronizer.exe
+F:\Селяков В.А\Рабочие проекты\МосквинВладимир\MoskvinWorkers\MoskvinWorkers\obj\Release\Syncronizer.pdb
