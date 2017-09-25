@@ -1,2 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Files />
+<Files>
+  <File Name="C:\Users\SelyakovVA\Desktop\Krasnodar">
+    <Syncronizes>
+      <SyncPath>C:\Users\SelyakovVA\Desktop\Test</SyncPath>
+    </Syncronizes>
+  </File>
+</Files>
