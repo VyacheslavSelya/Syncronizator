@@ -556,7 +556,7 @@
             </Button.Background>
             <StackPanel Orientation="Horizontal" Background="Transparent">
                 <Image Source="Image/9.ico" Width="60" Height="60"/>
-                <Label Content="Анализ" FontWeight="Bold" VerticalContentAlignment="Center" FontSize="20" Foreground="DeepPink"/>
+                <Label Content="Анализ" FontWeight="Bold" VerticalContentAlignment="Center" FontSize="16" Foreground="Red"/>
             </StackPanel>
         </Button>
         <StatusBar Height="25" Margin="0,75,0,0" Grid.Row="1" VerticalAlignment="Top">
