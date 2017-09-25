@@ -570,7 +570,7 @@
                     <GradientStop Color="#FF919090" Offset="0.767"/>
                 </LinearGradientBrush>
             </StatusBar.Background>
-            <Label Padding="0" Content="{Binding FileList.Count}"></Label>
+            <Label Padding="0" Content="Готово к работе" FontFamily="Times New Roman"></Label>
             <Separator />
             <ProgressBar Width="200" Height="18" Value="1"/>
         </StatusBar>
