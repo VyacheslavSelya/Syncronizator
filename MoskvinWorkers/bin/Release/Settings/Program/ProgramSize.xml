@@ -3,8 +3,8 @@
   <Window Name="MainWindow">
     <Height>514</Height>
     <Width>1107</Width>
-    <Left>266</Left>
-    <Top>310</Top>
+    <Left>300</Left>
+    <Top>165</Top>
     <State>Normal</State>
   </Window>
 </Syncronizer>
