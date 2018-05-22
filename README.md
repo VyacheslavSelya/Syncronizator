@@ -1,1 +1,3 @@
 # Syncronizator
+# CopyFileWPF
+# CopyFileWPF
